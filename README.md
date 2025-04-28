@@ -25,7 +25,7 @@
     <p>Follow these steps to run the project:</p>
    <ol>
         <li>Clone the repository:</li>
-        <code>git clone https://github.com/SasankaRanawaka/bmi-calculator.git</code>
+        <code>git clone https://github.com/SasankaDinith/BMI-Calculator-JAVASwing.git</code>
         <li>Navigate to the project folder:</li>
         <code>cd bmi-calculator</code>
         <li>Compile and run the Java program:</li>
@@ -43,8 +43,8 @@
   <h2>📞 Contact</h2>
     <p>For any questions or suggestions, feel free to reach out:</p>
     <ul>
-        <li>Email:sasankadinith0@gmail.com</li>
-        <li>GitHub: <a href="https://github.com/SasankaRanawaka">SasankaRanawaka</a></li>
+        <li>Email: <a href="sasankaranawaka0@gmail.com">sasankaranawaka0@gmail.com</li>
+        <li>GitHub: <a href="https://github.com/SasankaDinith">SasankaDinith</a></li>
     </ul>
 
 
